@@ -31,7 +31,7 @@ class TestCreateUser {
 	}
 
 	@Test
-	void testCreatwUser() {
+	void testCreateUser() {
 		
 		List<Map<String,Object>> userAdresses = new ArrayList<>();
 		
